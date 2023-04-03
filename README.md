@@ -4,7 +4,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiEstevam&theme=dracula&locale=pt-BR">
  </div>
  
- <div style="display: inline_block"><br>
+ <div style="display: inline_block" align="center"><br>
   
           
   <img align="center" alt="GuiEstevam-php" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
