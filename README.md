@@ -1,3 +1,6 @@
+## Olá! Eu sou o Guilherme Estevam!
+### Seja bem vindo ao meu perfil! 
+#### Formado em Análise e Desenvolvimento de Sistemas e atuando durante três anos na área da tecnologia, possuo sólidas experiências com desenvolvimento e planejamento de aplicações web, suporte ao cliente e manutenção de hardwares 
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GuiEstevam&show_icons=true&theme=dracula&count_private=true&locale=pt-BR">
