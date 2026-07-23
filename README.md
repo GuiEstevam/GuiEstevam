@@ -2,8 +2,12 @@
 
 # Olá! Eu sou o Guilherme Estevam 👋
 
-**Desenvolvedor Full Stack** · Guarulhos, SP  
+**Desenvolvedor Full Stack** · Laravel & Vue.js · Guarulhos, SP  
 Formado em Análise e Desenvolvimento de Sistemas · +6 anos na área de tecnologia
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-guiestevam.me-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://guiestevam.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-estevam-de-lima-407575168)
+[![E-mail](https://img.shields.io/badge/E--mail-contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.estevamdelima@gmail.com)
 
 </div>
 
@@ -12,12 +16,13 @@ Formado em Análise e Desenvolvimento de Sistemas · +6 anos na área de tecnolo
 ### Sobre mim
 
 Desenvolvo aplicações web com foco em experiências claras e sistemas que realmente resolvem o dia a dia.  
-Tenho experiência com planejamento, desenvolvimento, suporte e manutenção — do backend ao frontend.
+Vim do suporte de TI e levo essa visão operacional para o código — do backend ao frontend.
 
 - 🔭 Trabalhando com **Laravel**, **Vue.js** e **MySQL**
 - 🌱 Explorando interfaces modernas com **Inertia.js** e **Vue 3**
-- 💬 Aberto a conversar sobre desenvolvimento web e projetos colaborativos
-- 📍 Guarulhos · disponível para oportunidades
+- 💬 Aberto a vagas **CLT**, projetos **PJ** e conversas sobre desenvolvimento web
+- 📍 Guarulhos, SP · Remoto
+- 🌐 Portfólio: [guiestevam.me](https://guiestevam.me/)
 
 ---
 
@@ -25,7 +30,7 @@ Tenho experiência com planejamento, desenvolvimento, suporte e manutenção —
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,mysql,html,css,python,git,github" alt="Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,mysql,html,css,python,git,github,docker" alt="Tecnologias" />
   </a>
 </div>
 
@@ -33,12 +38,12 @@ Tenho experiência com planejamento, desenvolvimento, suporte e manutenção —
 
 ### Projetos em destaque
 
-| Projeto | Descrição | Stack |
+| Projeto | Descrição | Links |
 | --- | --- | --- |
-| [**SyncFinance**](https://github.com/GuiEstevam/SyncFinance) | Sistema financeiro colaborativo com dashboard, metas e relatórios | Laravel 12 · Inertia · Vue 3 |
-| [**Guicodex**](https://github.com/GuiEstevam/Guicodex) | Pokédex interativa com busca, filtros e tema claro/escuro | Vue.js 3 · PokeAPI |
-| [**Riftfinder**](https://github.com/GuiEstevam/Riftfinder) | Exploração de campeões do LoL com filtros e radar chart | Vue.js 3 · Data Dragon |
-| [**Horientando**](https://github.com/GuiEstevam/Horientando) | Plataforma do IFSP Guarulhos para matching de TCC | Laravel 8 · Livewire · Bootstrap |
+| [**SyncFinance**](https://github.com/GuiEstevam/SyncFinance) | Sistema financeiro colaborativo com dashboard, metas e relatórios · Laravel 12 · Inertia · Vue 3 | [Repo](https://github.com/GuiEstevam/SyncFinance) |
+| [**Guicodex**](https://github.com/GuiEstevam/Guicodex) | Pokédex interativa com busca, filtros e tema claro/escuro · Vue.js 3 · PokeAPI | [Demo](https://guiestevam.me/Guicodex/) · [Repo](https://github.com/GuiEstevam/Guicodex) |
+| [**Riftfinder**](https://github.com/GuiEstevam/Riftfinder) | Exploração de campeões do LoL com filtros e radar chart · Vue.js 3 · Data Dragon | [Demo](https://guiestevam.me/Riftfinder/) · [Repo](https://github.com/GuiEstevam/Riftfinder) |
+| [**Horientando**](https://github.com/GuiEstevam/Horientando) | Plataforma do IFSP Guarulhos para matching de TCC · Laravel 8 · Livewire · Bootstrap | [Repo](https://github.com/GuiEstevam/Horientando) |
 
 ---
 
@@ -61,11 +66,12 @@ Tenho experiência com planejamento, desenvolvimento, suporte e manutenção —
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-guiestevam.me-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://guiestevam.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-estevam-de-lima-407575168)
+[![E-mail](https://img.shields.io/badge/E--mail-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.estevamdelima@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/srhiddan)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/srhiddan)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@srhiddan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://guiestevam.github.io/)
 
 </div>
 
