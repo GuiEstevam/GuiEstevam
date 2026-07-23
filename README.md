@@ -5,9 +5,8 @@
 **Desenvolvedor Full Stack** · Laravel & Vue.js · Guarulhos, SP  
 Formado em Análise e Desenvolvimento de Sistemas · +6 anos na área de tecnologia
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-guiestevam.me-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://guiestevam.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-guiestevam.me-0A0A0A?style=for-the-badge)](https://guiestevam.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-estevam-de-lima-407575168)
-[![E-mail](https://img.shields.io/badge/E--mail-contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.estevamdelima@gmail.com)
 
 </div>
 
@@ -66,12 +65,13 @@ Vim do suporte de TI e levo essa visão operacional para o código — do backen
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-guiestevam.me-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://guiestevam.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-guiestevam.me-0A0A0A?style=for-the-badge)](https://guiestevam.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-estevam-de-lima-407575168)
-[![E-mail](https://img.shields.io/badge/E--mail-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.estevamdelima@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/srhiddan)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/srhiddan)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@srhiddan)
+[![Email](https://img.shields.io/badge/Email-contato.estevamdelima%40gmail.com-EA4335?style=for-the-badge)](mailto:contato.estevamdelima@gmail.com)
+
+<br />
+
+[Instagram](https://instagram.com/srhiddan) · [Twitch](https://www.twitch.tv/srhiddan) · [TikTok](https://tiktok.com/@srhiddan)
 
 </div>
 
