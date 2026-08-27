@@ -37,12 +37,16 @@ Vim do suporte de TI e levo essa visão operacional para o código — do backen
 
 ### Projetos em destaque
 
-| Projeto | Descrição | Links |
-| --- | --- | --- |
-| [**SyncFinance**](https://github.com/GuiEstevam/SyncFinance) | Sistema financeiro colaborativo com dashboard, metas e relatórios · Laravel 12 · Inertia · Vue 3 | [Repo](https://github.com/GuiEstevam/SyncFinance) |
-| [**Guicodex**](https://github.com/GuiEstevam/Guicodex) | Pokédex interativa com busca, filtros e tema claro/escuro · Vue.js 3 · PokeAPI | [Demo](https://guiestevam.me/Guicodex/) · [Repo](https://github.com/GuiEstevam/Guicodex) |
-| [**Riftfinder**](https://github.com/GuiEstevam/Riftfinder) | Exploração de campeões do LoL com filtros e radar chart · Vue.js 3 · Data Dragon | [Demo](https://guiestevam.me/Riftfinder/) · [Repo](https://github.com/GuiEstevam/Riftfinder) |
-| [**Horientando**](https://github.com/GuiEstevam/Horientando) | Plataforma do IFSP Guarulhos para matching de TCC · Laravel 8 · Livewire · Bootstrap | [Repo](https://github.com/GuiEstevam/Horientando) |
+Projetos comerciais em produção (repositórios privados). Demos no ar:
+
+| Projeto | Descrição | Stack | Demo |
+| --- | --- | --- | --- |
+| [**SkyFashion**](https://skyfashion.pt/) | E-commerce de moda — catálogo, categorias, carrinho e painel admin para operação web 24/7 | Laravel · Livewire · MySQL | [Site](https://skyfashion.pt/) |
+| [**Nerdola Miner**](https://nerdolaminer.com.br/) | E-commerce de ASICs e acessórios de mineração, com checkout e calculadoras de rentabilidade | Laravel · Livewire · MySQL | [Site](https://nerdolaminer.com.br/) |
+| [**LGF Contabilidade**](https://lgfcontabilidade.com.br/) | Landing de conversão para escritório contábil, com SEO local e captura de leads PJ | HTML · CSS · JavaScript · Vite | [Site](https://lgfcontabilidade.com.br/) |
+| [**Transcende**](https://transcende.vercel.app/) | Web app para estúdio de yoga e terapias — serviços, presença digital e reservas | HTML · CSS · JavaScript | [Site](https://transcende.vercel.app/) |
+
+Também mantenho projetos open source como [SyncFinance](https://github.com/GuiEstevam/SyncFinance), [Guicodex](https://github.com/GuiEstevam/Guicodex) e [Horientando](https://github.com/GuiEstevam/Horientando).
 
 ---
 
