@@ -49,14 +49,8 @@ Vim do suporte de TI e levo essa visão operacional para o código — do backen
 ### GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuiEstevam&show_icons=true&theme=radical&count_private=true&locale=pt-BR&hide_border=true" alt="GitHub Stats de GuiEstevam" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuiEstevam&layout=compact&theme=radical&locale=pt-BR&hide_border=true" alt="Linguagens mais usadas" />
-</div>
-
-<br />
-
-<div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=GuiEstevam&theme=radical&hide_border=true&locale=pt_BR" alt="Streak de contribuições" />
+  <img height="180" src="./profile/stats.svg" alt="GitHub Stats de GuiEstevam" />
+  <img height="180" src="./profile/top-langs.svg" alt="Linguagens mais usadas" />
 </div>
 
 ---
