@@ -5,7 +5,7 @@
 **Desenvolvedor Full Stack** · Laravel & Vue.js · Guarulhos, SP  
 Formado em Análise e Desenvolvimento de Sistemas · +6 anos na área de tecnologia
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-guiestevam.me-0A0A0A?style=for-the-badge)](https://guiestevam.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-guiestevam.com.br-0A0A0A?style=for-the-badge)](https://guiestevam.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-estevam-de-lima-407575168)
 
 </div>
@@ -21,7 +21,7 @@ Vim do suporte de TI e levo essa visão operacional para o código — do backen
 - 🌱 Explorando interfaces modernas com **Inertia.js** e **Vue 3**
 - 💬 Aberto a vagas **CLT**, projetos **PJ** e conversas sobre desenvolvimento web
 - 📍 Guarulhos, SP · Remoto
-- 🌐 Portfólio: [guiestevam.me](https://guiestevam.me/)
+- 🌐 Portfólio: [guiestevam.com.br](https://guiestevam.com.br/)
 
 ---
 
@@ -63,7 +63,7 @@ Também mantenho projetos open source como [SyncFinance](https://github.com/GuiE
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-guiestevam.me-0A0A0A?style=for-the-badge)](https://guiestevam.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-guiestevam.com.br-0A0A0A?style=for-the-badge)](https://guiestevam.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-estevam-de-lima-407575168)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/srhiddan)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/srhiddan)
